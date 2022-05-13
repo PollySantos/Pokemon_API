@@ -31,6 +31,10 @@
   - Ajax (JQuery)
   - Uso de API's
 
+## Link
+
+https://pollysantos.github.io/Pokemon_API/
+
 <hr>
 
 <div id="autor" align="center">
